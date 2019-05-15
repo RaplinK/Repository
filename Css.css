@@ -2,6 +2,9 @@ h1 {
 	text-align:center;
 	background:blue;
 }
+body{
+	background-color: gray;
+}
 /*TODO Выровнять текст по центру экрана*/
 /*TODO Изменить цвет заднего фона*/
 /*TODO Выровнять картинку*/
