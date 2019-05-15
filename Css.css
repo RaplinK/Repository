@@ -1,6 +1,26 @@
-h1 {
-	background:blue;
+﻿h1 {
+	text-align:center;
+	padding:0.5cm;
+	letter-spacing:0.5cm;
+	font:bold 40px Georgia;
 }
+body{
+  background-color:#C3BEBE;
+  background-size:cover;
+  background-attachment:fixed;
+  background-position:center;
+  letter-spacing:0.1cm;
+}
+header{
+  background-color:#C3BEBE;
+  margin-left:15%;
+  background-position:right%;
+  background-repeat:no-repeat;
+  height: 160px;
+  border: solid 5px black;
+  border-radius: 120px;
+}
+
 /*TODO Выровнять текст по центру экрана*/
 /*TODO Изменить цвет заднего фона*/
 /*TODO Выровнять картинку*/
