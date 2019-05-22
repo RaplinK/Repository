@@ -4,5 +4,5 @@ function g(text_, count) {
 
 
 $(".TextClick").click(function() {
-  $(this).next(".ToggledDiv").slideToggle("slow");
+  $(th).next(".ToggledDiv").slideToggle("slow");
 });
