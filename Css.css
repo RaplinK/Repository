@@ -1,5 +1,15 @@
 h1 {
+	text-align:center;
 	background:blue;
+}
+body{
+	background-color: gray;
+}
+.center{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
 }
 /*TODO Выровнять текст по центру экрана*/
 /*TODO Изменить цвет заднего фона*/
